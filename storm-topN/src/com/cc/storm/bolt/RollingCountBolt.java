@@ -20,6 +20,9 @@ import backtype.storm.utils.Utils;
  * @version V1.0   
  */
 
+/**
+ * 周期计算统计
+ */
 public class RollingCountBolt implements IRichBolt{
 
 	/**
